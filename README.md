@@ -82,4 +82,4 @@ Operadores de atribuição:
 * `**=` -> O próprio valor elevado à pontencia de novo valor.
 * `%=` -> O resto da divisão do proprio valor pelo novo valor.
 * `++` -> O próprio valor **incrementando (somado) com 1** (pode ser um _pré-incremento_ ou _pós-incremento_).  
-* `--` ->O próprio valor **decrementando (subtraindo) com 1** (pode ser um _pré-decremento_ ou _pós-decremento_).
+* `--` ->O próprio valor **decrementando (subtraindo) com 1** (pode ser um _pré-decremento_ ou _pós-decremento_).# aritmetica
