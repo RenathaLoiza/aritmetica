@@ -1,6 +1,6 @@
-# operadores em javaScript e execultando alguns no HTML
+# operadores em javaScript e execultando alguns no HTML.
 
-Aprendendo a utilizar operadores na linguagem JavaScript
+Aprendendo a utilizar operadores na linguagem JavaScript.
 
 
 Inicialmente, declaramos as variaveis com a palavra `const` em exercicios variados 
